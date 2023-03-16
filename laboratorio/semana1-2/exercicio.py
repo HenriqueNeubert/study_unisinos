@@ -1,3 +1,5 @@
+#teste de importação
+teste = "testando"
 #EXERCICIO_(1)
 #name = input("Digite seu nome:")
 #print("Seu nome é:",name)

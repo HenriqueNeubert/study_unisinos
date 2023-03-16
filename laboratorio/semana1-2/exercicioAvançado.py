@@ -1,3 +1,7 @@
+#teste de importação
+from exercicio import teste
+# print(teste)
+
 #EXERCICIO_(1)
 # – Imprima as seguintes mensagens na tela (substitua o X e o Y pelo
 # resultado da operação indicada na mensagem): 
@@ -32,9 +36,6 @@ delta = (b**2)-(4*a*2)
 x1 = (-b + (delta ** 0.5)) / (2*a)
 x2 = (-b - (delta ** 0.5)) / (2*a)
 print(x2)
-
-
-
 
 #GABARITO#########################################
 
