@@ -1,0 +1,138 @@
+Arquitetura da informação - Conceitos e Aplicações
+
+O que é a arquitetura da informação? Entenda esse conceito e suas aplicações.
+
+Albuquerque (2010), na sua tese de doutorado “Discurso sobre fundamentos de arquitetura da informação”, afirma o seguinte:
+
+Arquitetura da Informação é uma disciplina que concebe como um programa de investigação epistemológica da realidade, que busca identificar e relacionar, no mínimo e necessariamente, quatro dimensões no problema tratado: forma, contexto, manifestação e significado.
+
+Um exemplo de Arquitetura da Informação é planta baixa de uma casa, com as localizações das portas, janelas, indicações de tomadas e metragens.
+
+
+
+
+
+
+1 - Podemos relacionar o conceito de arquitetura da informação com a arquitetura civíl?
+
+SIM. Anteriormente falamos na PLANTA BAIXA. É um desenho de uma construção feito, em geral, a partir do corte horizontal à altura de 1,5m a partir da base. É um diagrama dos relacionamentos entre salas, espaços e outros aspectos físicos em um nível de uma estrutura. É a forma como são dispostos os elementos, a organização, o significado e função de cada espaço.
+
+Com as palavras de WURMAN, temos que, abre aspas: "Tornar claro o que é complexo."
+
+
+
+
+
+2 - Como surgiu o termo arquitetura da informação?
+
+Segundo a literatura da área, o termo arquitetura da informação foi popularizado por Richard Saul Wurman em meados da década 1960.
+
+Em 1976, ele organizou uma conferência em que o tema principal era The Information Architecture. Wurman transformou a AI em seu objeto de estudo com a finalidade de organizar as informações para que as pessoas pudessem acessar com facilidade.
+
+A sua paixão: tornar a informação fácil de se compreender.
+
+
+
+
+3 - Onde foram aplicados os conceitos do Wurman?
+
+Inicialmente foram aplicados na organização de materiais gráficos, guias, atlas, mapas. Com o tempo, os conceitos foram empregados em outros campos como layout de museus, estruturação de imagens radiográficas para uso médico.
+
+Pense como é feito um mapa de uma estação de metrô.  Tem muita relação com a arquitetura de informação.
+
+A forma em que os livros são organizados em uma biblioteca. 
+
+
+4 - Como o mapa do site é idealizado: é arquitetura de informação. Nesta espécie de organograma, podemos identificar as ramificações da estrutura do site. 
+
+
+
+As pessoas acessam a internet em busca de bom conteúdo. O que está em volta que vai melhorar a experiência em algum produto ou serviço. A arquitetura de informação ajudará o usuário a encontrar o que precisa de forma mais fácil.
+
+
+
+
+
+5 - E quando surgiu a relação da arquitetura de informação com a web?
+
+Em 1994, Louis Rosenfeld e Peter Morville, ambos com formação em Ciência da Informação e Biblioteconomia, fundaram a Argus Associates, primeira empresa a trabalhar exclusivamente com Arquitetura de Informação na WEB.
+
+Posteriormente, outras empresas seguiram os passos da Argus e adotaram a disciplina para a execução dos seus projetos.
+
+Em 1998, eles publicaram o livro apelidado de urso polar e até hoje é referência mundial sobre o assunto.
+
+
+
+
+
+
+6 - O que é arquitetura de informação segundo Rosenfeld e Morville?
+
+Segundo Rosenfeld e Morville , a Arquitetura da Informação é: Abre aspas:  " arte e a ciência de organizar informações para auxiliar os indivíduos a satisfazerem as suas necessidades informacionais.",  Fecha aspas.
+
+No site do governo Inglês (www.gov.uk) temos um exemplo de como uma arquitetura de informação é bem desenvolvida. Neste site as informações mais requisitadas/importantes, estão dispostos na página principal e de forma centralizada. Essa organização das informações  ajuda as pessoas a encontrarem a informação que necessitam.
+
+
+
+
+7 - Por que é tão importante entender arquitetura de informação para web mesmo depois de 20 anos?
+
+Vivemos em uma sociedade da informação. A quantidade de dados que circulam pelos meios digitais é imensurável. Além disso, temos o GOOGLE e SEO. Arquitetura de informação também é encontrabilidade.
+Vale sempre ter como exemplo o seguinte: Onde é mais fácil procurar um determinado livro ? Em uma biblioteca, onde os livros, estão organizados por tema e em ordem alfabética ou em uma pilha de livros não organizados ? 
+
+
+
+
+8- E qual é o papel do arquiteto de informação na prática?
+
+O papel do Arquiteto de Informação é balancear as características e as necessidades dos usuários, do conteúdo e contexto.
+
+
+
+
+
+olha só esse exemplo - Ferrovia Yamanote no Japão
+
+
+A ferrovia da cidade de Yamanote no Japão está fisicamente distribuída ao longo da cidade de Tokio. Mas como deixar bem identificado cada uma das 30 estações existentes nesta linha em um mapa para quê turistas, viajantes e os próprios residentes consigam se localizar facilmente?  Lembrando que nem todos sabem ler os Kanjis e ideogramas Japoneses. Então, a administradora da linha criou um mapa circular com cada uma das estações e dentro desse circulo, posicionou  a linha que faz a ligação entre uma estação de um extremo ao outro. 
+Nesse exemplo, a administradora poderia ter colocado o mapa da cidade com a distribuição das estações, mas como existens curvas na cidade e as estações não estão dispostas de forma similar fica mais claro organizar em um círculo mostrando as sequencias das estações. 
+
+Conteúdo é sequência e identidade das paradas e a linha que circunda a cidade de Tóquio.
+Contexto para o usuário não importa as voltas e curvas que o trem faz.
+O palácio imperial é um ponto importante e está destacado no mapa. E o desenho lembra a cultura oriental.
+
+O arquiteto de informação evidencia as informações mais importantes e retira as que não são necessárias.
+
+
+
+
+
+
+9 - Que tipos de problemas podemos ter se não tivermos aplicados os conceitos de arquitetura de informação?
+
+De acordo com Wodtke, 2003, Um rótulo (texto) confuso num website de referências médicas pode impedir o médico de encontrar uma nova pesquisa que salvará a vida do seu paciente.
+
+Aumento dos custos de treinamento, manutenção do site, suporte (MORVILLE, 2004).
+Queda nas vendas de um website de comércio eletrônico, pois o usuário não consegue encontrar o item que procura (NIELSEN NORMAN GROUP, 2001).
+
+
+
+
+10 - E em que consiste a anatomia da arquitetura de informação ? 
+
+DILLON (2003) definiu que a arquitetura de informação é uma ligação com outras áreas do conhecimento como educação, ciência da computação, psicologia.
+
+Essas conexões com outras áreas do conhecimento nos ajudam a entender melhor os usuários de uma determinada interface.
+
+Segue as disciplinas que contribuem com a arquitetura da Informação:
+
+Educação,
+Engenharia de Software,
+Psicologia Organizacional,
+Sociologia e Antropologia,
+Ciencia da Informação,
+Ciencia Cognitivas,
+Desenho Industrial e Design Gráfico,
+Ciencia da Computação
+
+
