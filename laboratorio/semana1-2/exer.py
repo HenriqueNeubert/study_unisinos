@@ -142,5 +142,3 @@ print(totalGeral)
 
 
 
-
-
