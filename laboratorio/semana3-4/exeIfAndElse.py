@@ -164,10 +164,31 @@
 # seja negativo, informe uma mensagem de erro e não realize o cálculo.
 
 #grau-a = 30
-grauA = float(input("Digite sua nota (GRAU-A)"))
-#grau-b = 70
-grauB = float(input("Digite sua nota (GRAU-B)"))
+# grauA = float(input("Digite sua nota (GRAU-A)"))
+# #grau-b = 70
+# grauB = float(input("Digite sua nota (GRAU-B)"))
 
-#
-#
-#
+# notaFinal = grauA * 0.3 + grauB * 0.7
+# if  notaFinal <= 6:
+#   print("Grau C necessária, nota final:%.1f" %notaFinal)
+# else:
+#   print("Grau C não necessária, nota final:%.1f" %notaFinal)
+
+# if grauA <= 0 or grauB <= 0:
+#   print("Nota inválida.")
+#   print(grauA,grauB)
+
+#EXERCICIO_(10)
+# Crie um programa que solicita que o usuário digite uma letra e imprime
+# na tela se a letra é uma vogal ou uma consoante.
+
+letra = str(input("Digite uma letra:"))
+
+# if letra == "a" or letra == "e" or letra == "i" or letra == "o" or letra == "u":
+#   print("VOGAL")
+# else:
+#   print("CONSOANTE")
+
+
+
+
