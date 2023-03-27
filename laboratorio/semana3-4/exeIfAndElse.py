@@ -19,7 +19,7 @@
 # elif numberA == numberB:
 #   print("Os números são iguais")
 # else:
-#   print("O número maior é:", numberB)
+#   print("O número maior é:", numberB) 
 
 #EXERCICIO_(3)
 # . Crie um programa que recebe dois valores inteiros A e B pelo teclado e
@@ -182,7 +182,7 @@
 # Crie um programa que solicita que o usuário digite uma letra e imprime
 # na tela se a letra é uma vogal ou uma consoante.
 
-letra = str(input("Digite uma letra:"))
+# letra = str(input("Digite uma letra:"))
 
 # if letra == "a" or letra == "e" or letra == "i" or letra == "o" or letra == "u":
 #   print("VOGAL")
