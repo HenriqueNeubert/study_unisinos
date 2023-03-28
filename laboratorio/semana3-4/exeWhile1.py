@@ -31,7 +31,7 @@
 # i = 1000
 # while i >= 0:
 #   print(i)
-#   i -= 2
+#   i -= 1
 
 #EXERCICIO_(5)
 #   Crie um programa que solicita o time de 10 usuários pelo teclado. Ao final,
@@ -213,3 +213,4 @@
 #EXERCICIO_(15)
 # Crie um programa que imprime os números primos entre 0 e 200,
 # imprimindo ao final a soma destes números.
+#ESTUDAR
