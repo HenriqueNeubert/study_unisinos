@@ -122,3 +122,42 @@
 # Crie um programa que pede para o usuário digitar números positivos via
 # Teclado. Quando o usuário digitar um número negativo, informe a média de todos 
 # os números que ele informou.
+
+#EXERCICIO_(13)
+# Crie um programa que calcule o fatorial de um número informado pelo
+# usuário (não permita números negativos).
+
+# number = int(input("Digite um número:"))
+# count = 5
+
+# if number > 0:
+#   for i in range(1, number):
+#     count = count * i
+# print(count)
+
+#EXERCICIO_(14)
+# Crie um programa que diga se o número informado pelo usuário é primo
+# ou não
+
+# #ESTUDAR
+# num = int(input("Digite um número:"))
+
+# isPrimo = True
+# cont = 2
+# while cont < num:
+#   if num % cont == 0:
+#     isPrimo = False
+#     break
+#   cont += 1
+
+# if isPrimo:
+#   print("é primo!")
+# else:
+#   print("Não é primo!")
+#ESTUDAR
+
+#ESTUDAR
+#EXERCICIO_(15)
+# Crie um programa que imprime os números primos entre 0 e 200,
+# imprimindo ao final a soma destes números.
+#ESTUDAR
