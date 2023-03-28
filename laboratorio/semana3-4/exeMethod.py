@@ -141,3 +141,11 @@
 # Crie um método que recebe um inteiro por parâmetro e retorna verdadeiro caso
 # seja um valor primo e falso caso contrário. Caso o parâmetro seja negativo o 
 # método deve retornar falso.
+
+# def exercicio3(num):
+#  if num <= 1: return False
+#  if num == 2: return True
+#  for i in range(2, int((num ** (1/2))+1)):
+#  if num % i == 0:
+#  return False
+#  return True
