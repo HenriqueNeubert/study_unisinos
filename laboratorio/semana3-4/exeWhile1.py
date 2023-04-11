@@ -2,10 +2,10 @@
 # Crie um programa que pede para o usuário digitar o nome de 13 pessoas
 # pelo teclado.
 
-# i = 1
+# i = 0
 
-# while i <= 13:
-#   name = str(input(f"Digite um nome ({i}/13):"))
+# while i < 13:
+#   name = str(input(f"Digite um nome ({i + 1}/13):"))
 #   i += 1
 
 #EXERCICIO_(2)
