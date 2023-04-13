@@ -1,19 +1,13 @@
-//Exercício 2. Crie uma classe chamada Computador, que possui 4 atributos, 
-//sendo eles a marca, a velocidade, o ano de fabricação e um atributo que indica
-//se o computador é novo.
-package exercicios.exercicio02;
+//Exercício 3. Crie uma classe chamada Lampada, que possui um atributo indicando 
+//se a lâmpada está ligada.
 
-public class Computador{
-  String marca;
-  float velocidade;
-  int AnoFabricacao;
-  boolean novo;
+package exercicios.exercicio03;
+
+public class Lampada{
+  boolean ligada;
 }
 
 // public static void main(String [] args) {}
-
-
-// Exercício 3. Crie uma classe chamada Lampada, que possui um atributo indicando se a lâmpada está ligada.
 
 // Exercício 4. Crie uma classe chamada Produto, que possui um nome, um valor, uma descrição (tipo String) e uma quantidade em estoque.
 
