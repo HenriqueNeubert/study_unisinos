@@ -9,6 +9,13 @@ public class Produto{
   float valor;
   String descricao;
   float quantidade;
+  Produto(){}
+  Produto(String nome, float valor, String descricao, float quantidade){
+    this.nome = nome;
+    this.valor = valor;
+    this.descricao = descricao;
+    this.quantidade = quantidade;
+  }
 }
 
 // public static void main(String [] args) {}
