@@ -10,5 +10,4 @@ public class ProdutoTeste {
     System.out.println("Produto:" + prod.nome + "\nDescrição:" + prod.descricao
     + "\nQuantidade:" + prod.quantidade + "\nValor:" + prod.valor);
   }
-  
 }
