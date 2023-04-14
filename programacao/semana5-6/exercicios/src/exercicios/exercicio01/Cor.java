@@ -13,6 +13,12 @@ public class Cor{
         this.green = green;
         this.blue = blue;
     }
+
+    public void setCor(int red, int green){
+        this.red = red;
+        this.green = green;
+    }
+
     public int getRed(){
         return red;
     }

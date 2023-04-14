@@ -6,5 +6,8 @@ public class CorTeste {
     rgb.setCor(500, 250, 200);
     System.out.println("RGB:(" + rgb.getRed() + "," + rgb.getGreen() + "," +
      rgb.getBlue() + ")");
+
+    rgb.setCor(500,200);
+    System.out.println("RGB:(" + rgb.getRed() + "," + rgb.getGreen() + ")");
   }
 }
