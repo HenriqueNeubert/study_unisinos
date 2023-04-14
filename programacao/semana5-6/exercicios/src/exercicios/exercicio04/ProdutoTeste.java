@@ -9,5 +9,12 @@ public class ProdutoTeste {
     prod.valor = 12.50f;
     System.out.println("Produto:" + prod.nome + "\nDescrição:" + prod.descricao
     + "\nQuantidade:" + prod.quantidade + "\nValor:" + prod.valor);
+
+    prod.nome = "Caderno";
+    prod.valor = 12.50f;
+    System.out.println("Borracha:" + prod.nome + "\nValor:" + prod.valor);
+
+    prod.nome = "Apontador";
+    System.out.println("Produto:" + prod.nome);
   }
 }
