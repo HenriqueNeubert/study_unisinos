@@ -1,23 +1,40 @@
 // Exercício 6. Pesquise (se necessário) e responda: o que é sobrecarga de métodos? 
-Sobrecarga de métodos seria quando mais de um método é criado utilizando o 
+  Sobrecarga de métodos seria quando mais de um método é criado utilizando o 
 mesmo nome com parâmetros diferentes. Sendo em quantidade ou tipos. 
 
 
-// Exercício 7. Sobrecarregue o método construtor das classes criadas nos 
-exercícios 1, 2, 3 e 4, criando mais um método deste tipo em cada uma delas.
-
-
-
-
 // Exercício 8. O que são atributos? E o que são métodos?
-// Exercício 9. O  que  é  e  para  que  serve um  método construtor? Quais  as  duas características necessárias para que um método seja o construtor da classe? Exemplifique sua resposta.
+  Atributos são as propriedades de um objeto. Métodos são as ações que um objeto 
+pode realizar.
+
+
+// Exercício 9. O  que  é  e  para  que  serve um  método construtor? Quais  as  
+duas características necessárias para que um método seja o construtor da classe? 
+Exemplifique sua resposta.
+  
+
+
 // Exercício 10. O que são e para que servem os métodos de acesso de uma classe? Exemplifique sua resposta.
+  São get e set, eles servem tanto para pegar quanto para renomear um atributo.
+
+
 // Exercício 11.  Seja x  uma variável inteira. Pesquise e responda: qual a diferença entre a utilização de x++  e ++x  no código? Exemplifique sua resposta.
-// Exercício 12. Suponha  a  existência  de  uma  classe  chamada  ContaCorrente,  com  os  atributos número  da  conta  (do  tipo  int) e  saldo  atual  (do  tipo  double).  Sabendo  que  NÃO  FOI  CRIADO  UM CONSTRUTOR NA CLASSE ContaCorrente, apenas os métodos de acesso, escreva o método main para criar 3 contas correntes com as seguintes informações (número, saldo):
+  A instrução ++i, incrementa a variável iantes dela ser utilizada no comando. Já a instrução i++, incrementa a variável idepois dela ser utilizada no comando.
+
+
+// Exercício 12. Suponha  a  existência  de  uma  classe  chamada  ContaCorrente, 
+ com  os  atributos número  da  conta  (do  tipo  int) e  saldo  atual  
+ (do  tipo  double).  Sabendo  que  NÃO  FOI  CRIADO  UM CONSTRUTOR NA CLASSE 
+ ContaCorrente, apenas os métodos de acesso, escreva o método main para criar 3 
+ contas correntes com as seguintes informações (número, saldo):
 // Conta 1: 1234, 100.00
 // Conta 2: 8765, -98.00
 // Conta 3: 3342, 3445.80
+
+
 // Exercício 13. Pesquisa (se necessário) e responda: o que é o método toString()? Como seria um exemplo de método toString()  dentro da classe ContaCorrente  descrita no exercício 12?
+
+
 // Exercício 14. Considerando a classe abaixo, crie um método  main  que chama todos os métodos desta classe. A última linha de código deve ser a chamada ao método imprimeInformacoes(), na qual todas as informações devem aparecer corretamente.
 
 // public class Empregado{

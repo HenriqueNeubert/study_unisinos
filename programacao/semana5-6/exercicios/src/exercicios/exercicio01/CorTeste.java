@@ -9,5 +9,13 @@ public class CorTeste {
 
     rgb.setCor(500,200);
     System.out.println("RGB:(" + rgb.getRed() + "," + rgb.getGreen() + ")");
+    int i = 0;
+        ++i;
+        System.out.println(i);
+        ++i;
+        System.out.println(i);
+        ++i;
+        System.out.println(i);
   }
+  
 }
