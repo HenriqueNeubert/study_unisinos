@@ -35,7 +35,10 @@ Exemplifique sua resposta.
     ///CÓDIGO
 
 
-// Exercício 14. Considerando a classe abaixo, crie um método  main  que chama todos os métodos desta classe. A última linha de código deve ser a chamada ao método imprimeInformacoes(), na qual todas as informações devem aparecer corretamente.
+// Exercício 14. Considerando a classe abaixo, crie um método  main  que chama
+todos os métodos desta classe. A última linha de código deve ser a chamada ao
+método imprimeInformacoes(), na qual todas as informações devem aparecer 
+corretamente.
 
 // public class Empregado{
 //    private String nome;
