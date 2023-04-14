@@ -22,6 +22,12 @@ public class Computador{
       System.out.println("NOVO!");
     }
   }
+
+  public void setComputador(String marca,float velocidade){
+    this.marca = marca;
+    this.velocidade = velocidade;
+  }
+
   public String getMarca(){
     return marca;
   }

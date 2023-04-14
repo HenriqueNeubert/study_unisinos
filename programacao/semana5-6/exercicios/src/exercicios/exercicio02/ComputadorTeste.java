@@ -9,5 +9,10 @@ public class ComputadorTeste {
     System.out.println(pc.getAnoFabricacao());
     System.out.println(pc.getNovo());
     System.out.println(pc.getVelocidade());
+
+    pc.setComputador("AR34", 2500);
+    System.out.println(pc.getMarca());
+    System.out.println(pc.getVelocidade());
+
   }
 }
