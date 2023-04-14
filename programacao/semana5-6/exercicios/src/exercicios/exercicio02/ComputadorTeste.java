@@ -13,6 +13,5 @@ public class ComputadorTeste {
     pc.setComputador("AR34", 2500);
     System.out.println(pc.getMarca());
     System.out.println(pc.getVelocidade());
-
   }
 }

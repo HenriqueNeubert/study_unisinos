@@ -5,6 +5,9 @@ public class LampadaTeste {
     Lampada ligar = new Lampada();
     ligar.ligada = true;
     ligar.setLampada(true);
-    System.out.println(ligar.getLampada());    
+    System.out.println(ligar.getStatus());
+    
+    ligar.setLampada(false, "blue");
+    System.out.println(ligar.getStatus(), ligar.getCor());    
   }  
 }

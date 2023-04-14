@@ -5,6 +5,7 @@ package exercicios.exercicio03;
 
 public class Lampada{
   boolean ligada;
+  String cor;
 
   Lampada(){}
   public void setLampada(boolean ligada){
@@ -16,8 +17,23 @@ public class Lampada{
       System.out.println("DESLIGADA!");
     }
   }
-  public boolean getLampada(){
+  public void setLampada(boolean ligada, String cor){
+    if(ligada){
+      this.ligada = ligada;
+      System.out.println("LIGADA!");
+    }else{
+      this.ligada = ligada;
+      System.out.println("DESLIGADA!");
+    }
+    this.cor = cor;
+  }
+
+  public boolean getStatus(){
     return ligada;
   }
+  public String getCor(){
+    return cor;
+  }
+
 }
 
