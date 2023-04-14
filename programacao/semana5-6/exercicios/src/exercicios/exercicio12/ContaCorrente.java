@@ -15,17 +15,24 @@ public class ContaCorrente {
   public void setNumber(int numero){
     this.numero = numero;
   }
-
+  
+  
   public void setSaldo(double saldo){
     this.saldo = saldo;
   }
-
+  
   public int getNumero(){
     return numero;
   }
-
+  
   public double getSaldo(){
     return saldo;
+  } 
+
+  public String toString(){
+    return "Número da conta:" + getNumero() + "\nSaldo: R$" + 
+    getSaldo();
   }
+
 
 }

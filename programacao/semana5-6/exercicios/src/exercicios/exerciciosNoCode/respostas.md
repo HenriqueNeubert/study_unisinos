@@ -22,17 +22,17 @@ Exemplifique sua resposta.
   A instrução ++i, incrementa a variável iantes dela ser utilizada no comando. Já a instrução i++, incrementa a variável idepois dela ser utilizada no comando.
 
 
-// Exercício 12. Suponha  a  existência  de  uma  classe  chamada  ContaCorrente, 
- com  os  atributos número  da  conta  (do  tipo  int) e  saldo  atual  
- (do  tipo  double).  Sabendo  que  NÃO  FOI  CRIADO  UM CONSTRUTOR NA CLASSE 
- ContaCorrente, apenas os métodos de acesso, escreva o método main para criar 3 
- contas correntes com as seguintes informações (número, saldo):
-// Conta 1: 1234, 100.00
-// Conta 2: 8765, -98.00
-// Conta 3: 3342, 3445.80
-
-
-// Exercício 13. Pesquisa (se necessário) e responda: o que é o método toString()? Como seria um exemplo de método toString()  dentro da classe ContaCorrente  descrita no exercício 12?
+// Exercício 13. Pesquisa (se necessário) e responda: o que é o método toString()?
+ Como seria um exemplo de método toString()  dentro da classe ContaCorrente  
+ descrita no exercício 12?
+    É um metodo padrão da linguagem que funciona para formatar e organizar objetos. 
+    ///CÓDIGO
+    public String toString(){
+      return "Número da conta:" + getNumero() + "\nSaldo: R$" + 
+      getSaldo();
+    }
+    System.out.println(usuario.toString());
+    ///CÓDIGO
 
 
 // Exercício 14. Considerando a classe abaixo, crie um método  main  que chama todos os métodos desta classe. A última linha de código deve ser a chamada ao método imprimeInformacoes(), na qual todas as informações devem aparecer corretamente.

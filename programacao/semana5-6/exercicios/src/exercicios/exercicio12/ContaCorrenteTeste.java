@@ -7,14 +7,14 @@ public class ContaCorrenteTeste {
     ContaCorrente usuario = new ContaCorrente();
     usuario.setNumber(1234);
     usuario.setSaldo(100.00);
-    System.out.println("Número da conta:" + usuario.getNumero() + "\nSaldo: R$" + usuario.getSaldo());
+    System.out.println(usuario.toString());
     usuario.setNumber(8765);
     usuario.setSaldo(-98.00);
-    System.out.println("Número da conta:" + usuario.getNumero() + "\nSaldo: R$" + usuario.getSaldo());
+    System.out.println(usuario.toString());
+    // System.out.println("Número da conta:" + usuario.getNumero() + "\nSaldo: R$" + usuario.getSaldo());
     usuario.setNumber(3342);
     usuario.setSaldo(3445.80);
-    System.out.println("Número da conta:" + usuario.getNumero() + "\nSaldo: R$" + usuario.getSaldo());
-
-    
+    System.out.println(usuario.toString());
+    // System.out.println("Número da conta:" + usuario.getNumero() + "\nSaldo: R$" + usuario.getSaldo());    
   }
 }
